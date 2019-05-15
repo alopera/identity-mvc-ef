@@ -1,0 +1,10 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/packages
+/.vs
+/Treehouse.FitnessFrog.Shared/bin/Debug
+/Treehouse.FitnessFrog.Shared/obj/Debug
+/Treehouse.FitnessFrog/bin
+/Treehouse.FitnessFrog/obj/Debug
